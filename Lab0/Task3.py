@@ -4,7 +4,7 @@ def LastDigit(n):
     if n ==0:
         return 0
 
-    n = n % 60 # берём остаток от деления на 60, так как последняя цифра числа фиббоначи циклична по периоду 60
+    n = n % 60 # ГЎГҐГ°ВёГ¬ Г®Г±ГІГ ГІГ®ГЄ Г®ГІ Г¤ГҐГ«ГҐГ­ГЁГї Г­Г  60, ГІГ ГЄ ГЄГ ГЄ ГЇГ®Г±Г«ГҐГ¤Г­ГїГї Г¶ГЁГґГ°Г  Г·ГЁГ±Г«Г  ГґГЁГЎГЎГ®Г­Г Г·ГЁ Г¶ГЁГЄГ«ГЁГ·Г­Г  ГЇГ® ГЇГҐГ°ГЁГ®Г¤Гі 60
 
     if n == 0:
         return 0
@@ -31,4 +31,5 @@ with open("inputLab1.txt", "r") as InputFile, open("outputLab2.txt", "w") as Out
 stop = time.perf_counter()
 
 print(f"time of algorithm  {stop - start:.8f} secs")
+
 
