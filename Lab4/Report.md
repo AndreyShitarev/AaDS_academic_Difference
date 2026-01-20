@@ -103,37 +103,37 @@ Output.txt
 В качестве тестов я прогнал все 8 примеров из лабы и получил такие результаты. (Далее 16 скринов: 8 - входных данных, 
 8 - выходных данных, можно их пролистнуть, так как все тесты прошли успешно)
 
+Тест 1
+
 <img width="400" height="400" alt="Lab4 SQ4 Input1" src="https://github.com/user-attachments/assets/f06a73eb-13a0-4759-85fc-db59d307e7bd" /> <img width="400" height="400" alt="Lab4 SQ4 Output1" src="https://github.com/user-attachments/assets/3d9c5771-f526-4f9d-a9f1-adb9a1f256a6" />
 
+Тест 2
 
+<img width="400" height="400" alt="Lab4 SQ4 Input2" src="https://github.com/user-attachments/assets/578c5814-3679-431c-a757-fbe278f8ca1a" /> <img width="400" height="400" alt="Lab4 SQ4 Output2" src="https://github.com/user-attachments/assets/ae24d9e6-b6e6-4714-a771-c4024535f7ef" />
 
-<img width="550" height="362" alt="Lab4 SQ4 Input2" src="https://github.com/user-attachments/assets/578c5814-3679-431c-a757-fbe278f8ca1a" />
+Тест 3
 
-<img width="549" height="361" alt="Lab4 SQ4 Output2" src="https://github.com/user-attachments/assets/ae24d9e6-b6e6-4714-a771-c4024535f7ef" />
+<img width="400" height="400" alt="Lab4 SQ4 Input3" src="https://github.com/user-attachments/assets/a46ffae2-a633-45c9-9cd8-ca48bc124253" /> <img width="400" height="400" alt="Lab4 SQ4 Output3" src="https://github.com/user-attachments/assets/aa0a8558-38cf-4cb5-b469-8a55fb0b2f42" />
 
-<img width="552" height="366" alt="Lab4 SQ4 Input3" src="https://github.com/user-attachments/assets/a46ffae2-a633-45c9-9cd8-ca48bc124253" />
+Тест 4
 
-<img width="547" height="365" alt="Lab4 SQ4 Output3" src="https://github.com/user-attachments/assets/aa0a8558-38cf-4cb5-b469-8a55fb0b2f42" />
+<img width="400" height="400" alt="Lab4 SQ4 Input4" src="https://github.com/user-attachments/assets/6a7cc2f7-84cf-444a-82e6-8e6893e64e28" /> <img width="400" height="400" alt="Lab4 SQ4 Output4" src="https://github.com/user-attachments/assets/b56025db-cd65-46ea-b8c9-7b4426545eef" />
 
-<img width="548" height="360" alt="Lab4 SQ4 Input4" src="https://github.com/user-attachments/assets/6a7cc2f7-84cf-444a-82e6-8e6893e64e28" />
+Тест 5
 
-<img width="552" height="364" alt="Lab4 SQ4 Output4" src="https://github.com/user-attachments/assets/b56025db-cd65-46ea-b8c9-7b4426545eef" />
+<img width="400" height="400" alt="Lab4 SQ4 Input5" src="https://github.com/user-attachments/assets/2f92c914-6304-4434-bc32-ac8343a252aa" /> <img width="400" height="400" alt="Lab4 SQ4 Output5" src="https://github.com/user-attachments/assets/f732c5b1-c135-4ca6-9ce3-b229051f5e8f" />
 
-<img width="553" height="363" alt="Lab4 SQ4 Input5" src="https://github.com/user-attachments/assets/2f92c914-6304-4434-bc32-ac8343a252aa" />
+Тест 6
 
-<img width="550" height="360" alt="Lab4 SQ4 Output5" src="https://github.com/user-attachments/assets/f732c5b1-c135-4ca6-9ce3-b229051f5e8f" />
+<img width="400" height="400" alt="Lab4 SQ4 Input6" src="https://github.com/user-attachments/assets/154f7b89-ab29-4630-a78b-a98481d0abee" /> <img width="400" height="400" alt="Lab4 SQ4 Output6" src="https://github.com/user-attachments/assets/04ae433e-5c63-4894-b2ec-129a4c6c726c" />
 
-<img width="549" height="365" alt="Lab4 SQ4 Input6" src="https://github.com/user-attachments/assets/154f7b89-ab29-4630-a78b-a98481d0abee" />
+Тест 7
 
-<img width="552" height="361" alt="Lab4 SQ4 Output6" src="https://github.com/user-attachments/assets/04ae433e-5c63-4894-b2ec-129a4c6c726c" />
+<img width="400" height="400" alt="Lab4 SQ4 Input7" src="https://github.com/user-attachments/assets/2d485fcf-deb9-40f8-8949-ce9f679a82a6" /> <img width="400" height="400" alt="Lab4 SQ4 Output7" src="https://github.com/user-attachments/assets/4d5af6ed-7909-45d8-be13-9aff40f3a463" />
 
-<img width="547" height="362" alt="Lab4 SQ4 Input7" src="https://github.com/user-attachments/assets/2d485fcf-deb9-40f8-8949-ce9f679a82a6" />
+Тест 8
 
-<img width="552" height="364" alt="Lab4 SQ4 Output7" src="https://github.com/user-attachments/assets/4d5af6ed-7909-45d8-be13-9aff40f3a463" />
-
-<img width="550" height="360" alt="Lab4 SQ4 Input8" src="https://github.com/user-attachments/assets/ddb5b8d0-379f-4eaa-bf63-bfffe62dcfad" />
-
-<img width="554" height="365" alt="Lab4 SQ4 Output8" src="https://github.com/user-attachments/assets/8e185421-8523-4f3b-9b29-002657f54809" />
+<img width="400" height="400" alt="Lab4 SQ4 Input8" src="https://github.com/user-attachments/assets/ddb5b8d0-379f-4eaa-bf63-bfffe62dcfad" /> <img width="400" height="400" alt="Lab4 SQ4 Output8" src="https://github.com/user-attachments/assets/8e185421-8523-4f3b-9b29-002657f54809" />
 
 
 
