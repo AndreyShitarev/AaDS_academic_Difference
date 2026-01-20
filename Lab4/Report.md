@@ -103,9 +103,9 @@ Output.txt
 В качестве тестов я прогнал все 8 примеров из лабы и получил такие результаты. (Далее 16 скринов: 8 - входных данных, 
 8 - выходных данных, можно их пролистнуть, так как все тесты прошли успешно)
 
-<img width="100" height="100" alt="Lab4 SQ4 Input1" src="https://github.com/user-attachments/assets/f06a73eb-13a0-4759-85fc-db59d307e7bd" />
+<img width="200" height="200" alt="Lab4 SQ4 Input1" src="https://github.com/user-attachments/assets/f06a73eb-13a0-4759-85fc-db59d307e7bd" /> <img width="200" height="200" alt="Lab4 SQ4 Output1" src="https://github.com/user-attachments/assets/3d9c5771-f526-4f9d-a9f1-adb9a1f256a6" />
 
-<img width="551" height="362" alt="Lab4 SQ4 Output1" src="https://github.com/user-attachments/assets/3d9c5771-f526-4f9d-a9f1-adb9a1f256a6" />
+
 
 <img width="550" height="362" alt="Lab4 SQ4 Input2" src="https://github.com/user-attachments/assets/578c5814-3679-431c-a757-fbe278f8ca1a" />
 
