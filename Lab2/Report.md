@@ -243,7 +243,8 @@ n/2 + A2B2 - требу-
 
 ### Код решения:
 
-<img width="546" height="362" alt="Lab2 MS8 input" src="https://github.com/user-attachments/assets/49e14b07-a066-4978-b887-509d71a94108" />
+<img width="661" height="1085" alt="Lab2 MS8 Code" src="https://github.com/user-attachments/assets/acba3da8-1a5e-49c7-ab53-457777a283fd" />
+
 
 ### Пояснение:
 
