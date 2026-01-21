@@ -182,23 +182,23 @@ max просто берёт самый верхний элемент стека,
 
 Тест 1
 
-<img width="200" height="200" alt="Lab4 SQ5 Input1" src="https://github.com/user-attachments/assets/fb07f689-2921-4fe5-a801-39d1c409b3c9" /> <img width="200" height="200" alt="Lab4 SQ5 Output1" src="https://github.com/user-attachments/assets/88e802b4-c17f-4b6f-9280-93362a6caf70" />
+<img width="400" height="400" alt="Lab4 SQ5 Input1" src="https://github.com/user-attachments/assets/fb07f689-2921-4fe5-a801-39d1c409b3c9" /> <img width="400" height="400" alt="Lab4 SQ5 Output1" src="https://github.com/user-attachments/assets/88e802b4-c17f-4b6f-9280-93362a6caf70" />
 
 Тест 2
 
-<img width="200" height="200" alt="Lab4 SQ5 Input2" src="https://github.com/user-attachments/assets/4eb24fe1-15a1-4f10-a3d9-85afce3871a2" /> <img width="200" height="200" alt="Lab4 SQ5 Output2" src="https://github.com/user-attachments/assets/6fbf483c-cd97-4b3c-bf26-ef0c67869c26" />
+<img width="400" height="400" alt="Lab4 SQ5 Input2" src="https://github.com/user-attachments/assets/4eb24fe1-15a1-4f10-a3d9-85afce3871a2" /> <img width="400" height="400" alt="Lab4 SQ5 Output2" src="https://github.com/user-attachments/assets/6fbf483c-cd97-4b3c-bf26-ef0c67869c26" />
 
 Тест 3
 
-<img width="200" height="200" alt="Lab4 SQ5 Input3" src="https://github.com/user-attachments/assets/13cecab1-f169-4422-9bc3-3a24fc67a786" /> <img width="200" height="200" alt="Lab4 SQ5 Output3" src="https://github.com/user-attachments/assets/86bbd2cf-21fd-4d80-9d4d-28643d42dbd2" />
+<img width="400" height="400" alt="Lab4 SQ5 Input3" src="https://github.com/user-attachments/assets/13cecab1-f169-4422-9bc3-3a24fc67a786" /> <img width="400" height="400" alt="Lab4 SQ5 Output3" src="https://github.com/user-attachments/assets/86bbd2cf-21fd-4d80-9d4d-28643d42dbd2" />
 
 Тест 4
 
-<img width="200" height="200" alt="Lab4 SQ5 Input4" src="https://github.com/user-attachments/assets/89ceb8c1-781d-47b2-8b27-d88f53fefba3" /> <img width="200" height="200" alt="Lab4 SQ5 Output4" src="https://github.com/user-attachments/assets/9ab745f1-6bf5-48d1-bec6-aeb8631733c2" />
+<img width="400" height="400" alt="Lab4 SQ5 Input4" src="https://github.com/user-attachments/assets/89ceb8c1-781d-47b2-8b27-d88f53fefba3" /> <img width="400" height="400" alt="Lab4 SQ5 Output4" src="https://github.com/user-attachments/assets/9ab745f1-6bf5-48d1-bec6-aeb8631733c2" />
 
 Тест 5
 
-<img width="200" height="200" alt="Lab4 SQ5 Input5" src="https://github.com/user-attachments/assets/c0c1b3a9-8fc7-4117-b16c-674d46bbc4a4" /> <img width="200" height="200" alt="Lab4 SQ5 Output5" src="https://github.com/user-attachments/assets/62da1c1c-856e-4716-821c-c72c61778282" />
+<img width="400" height="400" alt="Lab4 SQ5 Input5" src="https://github.com/user-attachments/assets/c0c1b3a9-8fc7-4117-b16c-674d46bbc4a4" /> <img width="400" height="400" alt="Lab4 SQ5 Output5" src="https://github.com/user-attachments/assets/62da1c1c-856e-4716-821c-c72c61778282" />
 
 
 
