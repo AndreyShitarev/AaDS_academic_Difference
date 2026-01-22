@@ -29,3 +29,8 @@
 В очередь помещаются и извлекаются только целые числа, не превышающие
 по модулю 109.
 ```
+
+## Код для решения задачи:
+
+<img width="570" height="1500" alt="Lab5 HS6 Code" src="https://github.com/user-attachments/assets/d0ee1911-0e39-4083-b3dc-d29e90454daa" />
+
